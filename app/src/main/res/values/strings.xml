@@ -1,5 +1,8 @@
 <resources>
 
     <string name="app_name">Balloon Game</string>
+    <string name="balloons_left_20">Balloons Left: 20</string>
+    <string name="_0_0">0:0</string>
+    <string name="shoot">Shoot</string>
 
 </resources>
